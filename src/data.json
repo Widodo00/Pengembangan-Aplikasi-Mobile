@@ -1,0 +1,29 @@
+[
+    {
+        "awal": "Merak",
+        "tujuan": "Bakauheni",
+        "tanggal": "27/03/2022",
+        "jam": "18.00",
+        "kelas": "Express",
+        "jumlah": 3,
+        "harga": 65000
+    },
+    {
+        "awal": "Gilimanuk",
+        "tujuan": "Ketapang",
+        "tanggal": "26/03/2022",
+        "jam": "12.00",
+        "kelas": "Express",
+        "jumlah": 1,
+        "harga": 65000
+    },
+    {
+        "awal": "Merak",
+        "tujuan": "Ketapang",
+        "tanggal": "26/03/2022",
+        "jam": "18.00",
+        "kelas": "Reguler",
+        "jumlah": 1,
+        "harga": 65000
+    }
+]
