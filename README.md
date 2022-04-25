@@ -5,7 +5,7 @@ Kelas: PAM RA
 # APLIKASI KONTAK
 Aplikasi Kontak merupakan aplikasi yang digunakan untuk menyimpan dan melihat nomor telepon seseorang yang anda simpan<br>
 ## Aplikasi Dapat Didownload Pada Link Dibawah Ini
-LINK : [Kontak.apk](https://drive.google.com/file/d/1jzGBDIs_O410EnV2DGw1JQvcg1hHWzZI/view?usp=sharing)
+LINK : [Kontak.apk]
 
 # Dafter Package yang digunakan
     "@react-navigation/bottom-tabs": "^6.2.0",
